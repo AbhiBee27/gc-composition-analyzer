@@ -2,4 +2,5 @@ streamlit
 matplotlib
 biopython
 numba
+pandas
 fpdf
